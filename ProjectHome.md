@@ -1,0 +1,1 @@
+Not serious remake of the Space Invaders game, coded for fun using Python and the Tkinter library.
